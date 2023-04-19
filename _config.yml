@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
-title: 2023 results
-description: UniBind 2021 analysed with COBIND
-logo: images/COBIND_logo.png
+title: On Pages
+description: Basic intro on how to create and deploy simple webpages to report your results
+logo: images/logo.png
 author: Ieva Rauluseviciute
 show_downloads: true
 google_analytics:
+plugins:
+  - jemoji
