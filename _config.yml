@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: 2023 results
+description: UniBind 2021 analysed with COBIND
+logo: images/COBIND_logo.png
+author: Ieva Rauluseviciute
+show_downloads: true
+google_analytics:
