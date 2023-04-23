@@ -99,7 +99,7 @@ Even when writing an `.md` files I like to use HTML syntax to insert the figures
 
 ### d. Push the files to remote ###
 
-Here, same as in strategy 1, you just commit and push your files to remote and your page will be deployed. In *Actions* menu you will see the URL to the page, but it is usually the name of the repository with extension `github.io`.
+Here, same as in strategy 1, you just commit and push your files to remote and your page will be deployed. In *Actions* menu you will see the URL to the page, but it is usually the name of the workplace with extension `github.io` and ending with the name of a repository. For example, `https://ievarau.github.io/on_pages_and_reports/`. But GitHub Pages allow to request for a domain name in the `Pages` settings.
 
 ## 3. Writing a page as `.html` and deploying on Bitbucket ##
 
